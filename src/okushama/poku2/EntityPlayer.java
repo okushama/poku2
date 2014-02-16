@@ -1,3 +1,4 @@
+package okushama.poku2;
 
 import java.util.Random;
 
